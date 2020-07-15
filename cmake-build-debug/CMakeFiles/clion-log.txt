@@ -1,0 +1,4 @@
+F:\Tools\apps\CLion\ch-0\201.7846.88\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=F:/Tools/require/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=F:/Tools/require/MinGW/bin/gcc.exe -DCMAKE_CXX_COMPILER=F:/Tools/require/MinGW/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" F:\projects\acm
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/projects/acm/cmake-build-debug

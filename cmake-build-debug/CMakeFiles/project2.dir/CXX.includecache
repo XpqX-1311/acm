@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/projects/acm/project2.cpp
+set
+-
+map
+-
+deque
+-
+queue
+-
+stack
+-
+cmath
+-
+cstdio
+-
+bitset
+-
+string
+-
+vector
+-
+cstdlib
+-
+cstring
+-
+sstream
+-
+iostream
+-
+algorithm
+-
+unordered_map
+-
+
